@@ -1,0 +1,289 @@
+{
+  "title": "Qualis",
+  "seo_description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga inventore, accusamus, dolorem accusantium sunt cumque magnam veritatis, dolore nisi, adipisci mollitia optio dolorum? Corporis, ratione rerum distinctio facere eaque! Facere.",
+  "galicia":
+  	{
+  		"name" : "Parque Galicia",
+      "gallery": [
+        {
+          "url": "../images/projects/galicia/cocina_final.jpg"
+        },
+        {
+          "url": "../images/projects/galicia/dormitorio_principal.jpg"
+        },
+        {
+          "url": "../images/projects/galicia/estar_terraza.jpg"
+        },
+        {
+          "url": "../images/projects/galicia/sala_comedor.jpg"
+        },
+        {
+          "url": "../images/projects/galicia/sshh.jpg"
+        },
+        {
+          "url": "../images/projects/galicia/vista_lobby.jpg"
+        }
+      ],
+  		"types":[
+  			{
+  				"id": "DPTO_101",
+  				"name": "DPTO 101",
+  				"total_area_m2": "59.15",
+  				"roofed_area_m2": "46.23",
+  				"free_area_m2": "12.92",
+  				"map": "../images/projects/galicia/dpt101.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_102",
+  				"name": "DPTO 102",
+  				"total_area_m2": "119.79",
+  				"roofed_area_m2": "84.32",
+  				"free_area_m2": "35.47",
+  				"map": "../images/projects/galicia/dpt102.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_103",
+  				"name": "DPTO 103",
+  				"total_area_m2": "104.98",
+  				"roofed_area_m2": "76.43",
+  				"free_area_m2": "28.55",
+  				"map": "../images/projects/galicia/dpt103.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_201_701",
+  				"name": "DPTO 201 al 701",
+  				"total_area_m2": "84.00",
+  				"roofed_area_m2": "84.00",
+  				"free_area_m2": "--",
+  				"map": "../images/projects/galicia/dptx01.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_202_702",
+  				"name": "DPTO 202 al 702",
+  				"total_area_m2": "83.70",
+  				"roofed_area_m2": "83.70",
+  				"free_area_m2": "--",
+  				"map": "../images/projects/galicia/dptx02.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_203_703",
+  				"name": "DPTO 203 al 703",
+  				"total_area_m2": "76.42",
+  				"roofed_area_m2": "76.42",
+  				"free_area_m2": "--",
+  				"map": "../images/projects/galicia/dptx03.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_801",
+  				"name": "DPTO 801",
+  				"total_area_m2": "84.00",
+  				"roofed_area_m2": "80.97",
+  				"free_area_m2": "3.03",
+          "map": "../images/projects/galicia/dptx01.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_802",
+  				"name": "DPTO 802",
+  				"total_area_m2": "83.70",
+  				"roofed_area_m2": "81.93",
+  				"free_area_m2": "1.77",
+          "map": "../images/projects/galicia/dptx02.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_803",
+  				"name": "DPTO 803",
+  				"total_area_m2": "76.42",
+  				"roofed_area_m2": "76.42",
+  				"free_area_m2": "-",
+          "map": "../images/projects/galicia/dptx03.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DUPLEX_901",
+  				"name": "DÚPLEX 901",
+  				"total_area_m2": "105.52",
+  				"roofed_area_m2": "91.32",
+  				"free_area_m2": "14.20",
+  				"map": "../images/projects/galicia/dup901.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DUPLEX_902",
+  				"name": "DÚPLEX 902",
+  				"total_area_m2": "81.48",
+  				"roofed_area_m2": "57.23",
+  				"free_area_m2": "24.25",
+  				"map": "../images/projects/galicia/dup902.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_903",
+  				"name": "DÚPLEX 903",
+  				"total_area_m2": "134.80",
+  				"roofed_area_m2": "104.00",
+  				"free_area_m2": "30.80",
+  				"map": "../images/projects/galicia/dup903.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_904",
+  				"name": "DÚPLEX 904",
+  				"total_area_m2": "74.13",
+  				"roofed_area_m2": "57.23",
+  				"free_area_m2": "16.90",
+  				"map": "../images/projects/galicia/dup904.jpg",
+  				"available": true
+  			},
+  			{
+  				"id": "DPTO_905",
+  				"name": "DÚPLEX 905",
+  				"total_area_m2": "105.52",
+  				"roofed_area_m2": "91.32",
+  				"free_area_m2": "14.20",
+  				"map": "../images/projects/galicia/dup905.jpg",
+  				"available": true
+  			}
+  		]
+  	},
+   "gondal": {
+      "name" : "Parque Gondal",
+      "gallery": [
+        {
+          "url": "../images/projects/gondal/cocina_final.jpg"
+        },
+        {
+          "url": "../images/projects/gondal/dormitorio_principal.jpg"
+        },
+        {
+          "url": "../images/projects/gondal/estar_terraza.jpg"
+        },
+        {
+          "url": "../images/projects/gondal/sala_comedor.jpg"
+        },
+        {
+          "url": "../images/projects/gondal/sshh.jpg"
+        },
+        {
+          "url": "../images/projects/gondal/vista_lobby.jpg"
+        }
+      ],
+      "types":[
+        {
+          "id": "DPTO_101",
+          "name": "DPTO 101",
+          "total_area_m2": "75.17",
+          "roofed_area_m2": "54.51",
+          "free_area_m2": "20.66",
+          "map": "../images/projects/gondal/dpt101.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_102",
+          "name": "DPTO 102",
+          "total_area_m2": "76.01",
+          "roofed_area_m2": "61.93",
+          "free_area_m2": "14.08",
+          "map": "../images/projects/gondal/dpt102.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_103",
+          "name": "DPTO 103",
+          "total_area_m2": "117.55",
+          "roofed_area_m2": "81.92",
+          "free_area_m2": "35.63",
+          "map": "../images/projects/gondal/dpt103.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_201_601",
+          "name": "DPTO 201 al 601",
+          "total_area_m2": "83.02",
+          "roofed_area_m2": "83.02",
+          "free_area_m2": "--",
+          "map": "../images/projects/gondal/dptx01.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_202_802",
+          "name": "DPTO 202 al 802",
+          "total_area_m2": "74.03",
+          "roofed_area_m2": "74.03",
+          "free_area_m2": "--",
+          "map": "../images/projects/gondal/dptx02.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_203_603",
+          "name": "DPTO 203 al 603",
+          "total_area_m2": "81.73",
+          "roofed_area_m2": "81.73",
+          "free_area_m2": "--",
+          "map": "../images/projects/gondal/dptx03.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_701_801",
+          "name": "DPTO 701 - 801",
+          "total_area_m2": "80.14",
+          "roofed_area_m2": "80.14",
+          "free_area_m2": "--",
+          "map": "../images/projects/gondal/dpt701-801.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_703_803",
+          "name": "DPTO 703 - 803",
+          "total_area_m2": "79.28",
+          "roofed_area_m2": "79.28",
+          "free_area_m2": "--",
+          "map": "../images/projects/gondal/dpt703-803.jpg",
+          "available": true
+        },
+        {
+          "id": "DUPLEX_901",
+          "name": "DÚPLEX 901",
+          "total_area_m2": "127.66",
+          "roofed_area_m2": "103.19",
+          "free_area_m2": "24.47",
+          "map": "../images/projects/gondal/dup901.jpg",
+          "available": true
+        },
+        {
+          "id": "DUPLEX_902",
+          "name": "DÚPLEX 902",
+          "total_area_m2": "97.82",
+          "roofed_area_m2": "71.30",
+          "free_area_m2": "26.52",
+          "map": "../images/projects/gondal/dup902.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_903",
+          "name": "DÚPLEX 903",
+          "total_area_m2": "99.37",
+          "roofed_area_m2": "72.68",
+          "free_area_m2": "26.69",
+          "map": "../images/projects/gondal/dup903.jpg",
+          "available": true
+        },
+        {
+          "id": "DPTO_904",
+          "name": "DÚPLEX 904",
+          "total_area_m2": "129.66",
+          "roofed_area_m2": "102.89",
+          "free_area_m2": "26.77",
+          "map": "../images/projects/gondal/dup904.jpg",
+          "available": true
+        }
+      ]
+    }
+}

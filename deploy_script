@@ -1,0 +1,1 @@
+ssh franco@wemake.pe -t "cd qualisinmobilia.com/qualis; git pull; gulp build"
